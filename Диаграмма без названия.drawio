@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T14:17:17.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="N7B_kYnf_Gtgf6FMrWsk" version="20.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-19T14:40:29.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rm4NnTPA3pQqcValGCyj" version="20.6.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,6 +386,54 @@
         </mxCell>
         <mxCell id="QEIYoclB_ERsxpTaUlHu-18" value="Система заявок" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1415" y="-430" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-310" width="730" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-20" value="addApp()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-179" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-21" value="Тип поля" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-22" value="Значения" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-23" value="Тип поля" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-24" value="Тип поля" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-25" value="Словарь полей" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-845" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-26" value="Checkbox" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-27" value="Значения" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-28" value="Значения" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-29" value="Значения" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-32" value="Checkbox" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-33" value="Значения" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-34" value="Значения" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-35" value="Значения" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QEIYoclB_ERsxpTaUlHu-37" value="//Поля выбора сотрудника&lt;br&gt;//Поля выбора департамента&lt;br&gt;//" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="-580" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
